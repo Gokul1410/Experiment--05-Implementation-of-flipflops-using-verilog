@@ -102,39 +102,82 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
 
+1.Using nand gates and wires construct sr flip flop.
+
+2.Repeat same steps to construct JK,D,T flipflops.
+
+3.Find Rtl logic and timing diagram for flipflops.
+
+4.end the program.
 
 
 ### PROGRAM 
-/*
+
+## Program 1
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: GOKUL.C
+RegisterNumber: 23014093
 
-
-
-
-
+![Screenshot 2023-12-25 195316](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/7635c951-f4f0-4805-952d-e0179a61393a)
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+![Screenshot 2023-12-25 195334](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/ef057eae-7c53-4ca5-bded-2ad67750b17a)
 
+### TIMING DIGRAMS FOR FLIP FLOPS
 
+![Screenshot 2023-12-25 195519](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/7b69150a-e8b6-4e0e-b0fb-ce6ce0da1e27)
 
+## Program 2
 
+Program for flipflops  and verify its truth table in quartus using Verilog programming.
+Developed by: GOKUL.C
+RegisterNumber: 23014093
 
+![Screenshot 2023-12-25 195551](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/0fd42195-af68-4415-8c89-2299e5fd6958)
 
+### RTL LOGIC FOR FLIPFLOPS 
 
+![Screenshot 2023-12-25 195609](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/7a56b5aa-5255-4e21-8d3c-76c9f1d8ff31)
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
+### TIMING DIGRAMS FOR FLIP FLOPS
 
+![Screenshot 2023-12-25 195629](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/c596aab7-589e-4b21-8f69-9de1f347012d)
 
+## Program 3
 
+Program for flipflops  and verify its truth table in quartus using Verilog programming.
+Developed by: GOKUL.C
+RegisterNumber: 23014093
 
+![Screenshot 2023-12-25 195641](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/ccfe4122-2a4c-42d8-9a88-86795675d4b3)
 
+### RTL LOGIC FOR FLIPFLOPS 
 
+![Screenshot 2023-12-25 195704](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/7d2899ac-5d20-40de-971a-565392564ce0)
 
+### TIMING DIGRAMS FOR FLIP FLOPS
+
+![Screenshot 2023-12-25 195719](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/2d9dc7fd-728b-413b-9fce-9b72ebf85c45)
+
+## Program 4
+
+Program for flipflops  and verify its truth table in quartus using Verilog programming.
+Developed by: GOKUL.C
+RegisterNumber: 23014093
+
+![Screenshot 2023-12-25 195734](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/96292a8b-abb7-4ecc-868d-ccec67e78ef3)
+
+### RTL LOGIC FOR FLIPFLOPS 
+
+![Screenshot 2023-12-25 195752](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/d0712008-a12d-40f3-83d7-4950b6e65bd4)
+
+### TIMING DIGRAMS FOR FLIP FLOPS
+
+![Screenshot 2023-12-25 195810](https://github.com/Gokul1410/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153058321/01e0cb5d-92ea-471d-b121-14f80a59089f)
 
 ### RESULTS 
+
+Thus implementation of SR,JK,D and T flipflops using nand gates are done successfully.
